@@ -1,0 +1,4 @@
+home\test\Entity\InventoryItem.class
+home\test\Application.class
+home\test\Controllers\InventoryItemRestController.class
+home\test\InventoryRepository\InventoryRepository.class
